@@ -1,6 +1,6 @@
 ### page HTML/CSS
-#### présentant un article de e-commerce
-Juste un peu de CSS pour jouer avec tansform, transition et le responsive
+#### présentant un article d' e-commerce
+Juste un peu de CSS pour jouer avec transform, transition et le responsive
 
 ![sreenshot](screenshot.gif)
 
